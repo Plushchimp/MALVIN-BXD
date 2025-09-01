@@ -1,6 +1,6 @@
 {
   "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "description": "Javascript WhatsApp bot made by Ryyanz",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -9,14 +9,14 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~g3NC3KRL#d1PYyj-bTobrt_PwSkD17mut2o6f9_yFcBDmPwbb1TI",
         "required": true
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "𝕭𝖑𝖆𝖈𝖐 𝖘𝖜𝖔𝖗𝖉𝖘𝖒𝖆𝖓" 
         
     },
      "PREFIX": {
@@ -33,20 +33,20 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© 𝕡𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 ℝ𝕪𝕪𝕒𝕟𝕫 𝕋𝕖𝕔𝕙*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "18767077170"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Ryan",
       "required": true
     }
 
